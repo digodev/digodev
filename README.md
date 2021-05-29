@@ -11,5 +11,5 @@ I a simple guy trying my way in tech. Currently living in Salvador-BA.
 - 📫 How to reach me: digofern@unifei.edu
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I was raised in a farm and the name of my horse was lazie (preguiçoso). But I'm not !
-- ![WhatsApp Image 2021-05-29 at 15 39 35](https://user-images.githubusercontent.com/67662041/120081484-44fc2480-c094-11eb-8262-6bb02160b043.jpeg)
+ ![WhatsApp Image 2021-05-29 at 15 39 35](https://user-images.githubusercontent.com/67662041/120081484-44fc2480-c094-11eb-8262-6bb02160b043.jpeg)
  <!-- - 🤔 I’m looking for help with ... -->
