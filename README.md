@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo.  👋
+### Olá, eu sou Rodrigo.  👋
 
 Sou um jovem tentando um caminho na tecnologia. Atualmente vivo em Salvador-BA.
 
