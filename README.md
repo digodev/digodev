@@ -10,5 +10,5 @@ Sou um jovem tentando um caminho na tecnologia. Atualmente vivo em Salvador-BA.
 - 💬 Pergunte-me sobre o universo. 
 - 📫 Contato: simplecod3r@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Acompanhe-me na Twitch: [Twitch SimpleCod3r](https://www.twitch.tv/principemaluco)
+- ⚡ Acompanhe-me na [Twitch](https://www.twitch.tv/principemaluco): LiveCode e batepapo aos **Sábados 13:30**
  <!-- - 🤔 I’m looking for help with ... -->
