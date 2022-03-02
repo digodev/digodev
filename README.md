@@ -12,3 +12,5 @@ Sou um jovem tentando um caminho na tecnologia. Atualmente vivo em Salvador-BA.
 - 😄 Pronomes: ele/dele
 - ⚡ Acompanhe-me na [Twitch](https://www.twitch.tv/principemaluco): LiveCode e batepapo aos **Sábados 13:30**
 - 🤔 I’m looking for help with ... -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/simpleCod3r/simplecod3r)
