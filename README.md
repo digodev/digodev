@@ -2,7 +2,7 @@
 
 Sou um jovem formando em engenharia de controle a automação. Atualmente vivo em Salvador-BA.
 
-Esse perfil é utilizado para compartilhar experiências que adquiro em projetos pessoais e também como uma biblioteca de apredizado. 
+Esse perfil é utilizado para compartilhar experiências que adquiro em projetos pessoais e também como uma biblioteca de aprendizado. 
 
 Meu objetivo atual é realizar meu trabalho final de graduação e entrar para o mercado de trabalho. Sou curioso e tenho interesse por diversas áreas. 
 
