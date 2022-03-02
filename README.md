@@ -1,8 +1,8 @@
-### Olá, eu sou Rodrigo.  👋
+### Oi, eu sou Rodrigo !  👋
 
 Sou um jovem tentando um caminho na tecnologia. Atualmente vivo em Salvador-BA.
 
-<!-- **simpleCod3r/simplecod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **simpleCod3r/simplecod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 - 🔭 Tentando desenvolver habilidades que me tornem um desenvolvedor profissional.
 - 🌱 Atualmente aprendendo: Algoritmo e Estrutura de dados + Manipuladores Robóticos com ROS2.
@@ -11,4 +11,4 @@ Sou um jovem tentando um caminho na tecnologia. Atualmente vivo em Salvador-BA.
 - 📫 Contato: simplecod3r@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Acompanhe-me na [Twitch](https://www.twitch.tv/principemaluco): LiveCode e batepapo aos **Sábados 13:30**
- <!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with ... -->
